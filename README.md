@@ -1,6 +1,6 @@
 # C_healthy
 
-Tham khảo cách 1 thư viện python hoạt động. 
+## Idea: Tham khảo cách 1 thư viện python hoạt động. 
 
 ## Tính năng 
 C_healthy là thư viện Python để tính toán các chỉ số sức khỏe (BMI, BMR, TDEE, và nhiều chỉ số khác) 
