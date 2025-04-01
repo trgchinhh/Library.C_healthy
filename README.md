@@ -1,5 +1,8 @@
 # C_healthy
 
+Tham khảo cách 1 thư viện python hoạt động. 
+
+## Tính năng 
 C_healthy là thư viện Python để tính toán các chỉ số sức khỏe (BMI, BMR, TDEE, và nhiều chỉ số khác) 
 
 ## Cách cài đặt
@@ -77,5 +80,6 @@ class BodyIndex:
 TruongChinh = BodyIndex("nam", 1.7, 70, 18, 3, 85, 95)
 TruongChinh.hien_thi_ket_qua() 
 # ... Và thêm nhiều người khác ở đây
+
 ```
 CUỐI CÙNG CẢM ƠN CÁC BẠN ĐÃ TIN DÙNG THƯ VIỆN CỦA MÌNH
