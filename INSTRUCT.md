@@ -24,8 +24,7 @@ _ LICENSE: bản quyền, xác định quyền sử dụng.
 ## BƯỚC 2: ĐÓNG GÓI THƯ VIỆN 
 
 ```bash
-- Đóng gói thư viện bằng lệnh: 
-python setup.py sdist bdist_wheel
+- Đóng gói thư viện bằng lệnh: python setup.py sdist bdist_wheel
 - Lưu ý: chuyển vào folder thư viện chổ có file setup.py trước khi dùng lệnh
 ```
 
