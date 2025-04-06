@@ -53,6 +53,7 @@ print("VO2MAX:", vo2max)
 print("HSI:", hsi)
 print("MMI:", mmi)
 print("BFM:", bfm)
+print("__Version__:", C_healthy.__version__)
 ```
 
 ## Hoặc có thể dùng cho nhiều người bằng đoạn oop sau
