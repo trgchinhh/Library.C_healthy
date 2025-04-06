@@ -9,6 +9,12 @@ C_healthy là thư viện Python để tính toán các chỉ số sức khỏe 
 ```bash
 pip install C_healthy
 ```
+
+## Cách nâng cấp 
+```bash
+pip install --upgrade C-healthy
+```
+
 ## Cách sử dụng 
 ```bash
 from C_healthy import BMI, BMR, TDEE, WHR, LBM, BFP, BBW, IBW, MA, FFMI, RFM, VFR, BSA, VO2MAX, HSI, MMI, BFM
