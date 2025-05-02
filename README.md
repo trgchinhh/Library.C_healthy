@@ -1,5 +1,7 @@
 # C_healthy
 
+## Hưỡng dẫn tạo thư viện cơ bản: https://github.com/trgchinhh/LibraryChealthy/blob/main/INSTRUCT.md
+
 ## New Version: https://pypi.org/project/C-healthy/0.2.5/
 
 ## Tính năng 
