@@ -18,7 +18,7 @@ my_library/
 - __init__: file khởi tạo câu lệnh chính của thư viện
 - setup: file chứa thông tin như version, tên thư viện, tên tác giả,...
 - README.md: cách sử dụng thư viện 
-_ LICENSE: bản quyền, xác định quyền sử dụng.
+- LICENSE: bản quyền, xác định quyền sử dụng.
 ```
 
 ## BƯỚC 2: ĐÓNG GÓI THƯ VIỆN 
