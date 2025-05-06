@@ -7,7 +7,8 @@ my_library/
 ├── my_library/
 │   ├── __init__.py
 │   ├── file_module1.py
-│   └── file_module2.py
+│   ├── file_module2.py
+│   └── file_module....py
 ├── .gitignore 
 ├── setup.py
 ├── README.md
