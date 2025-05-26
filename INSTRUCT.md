@@ -44,4 +44,4 @@ my_library/
 - Lưu ý: nếu muốn nâng cấp version thì +1 vào version hiện tại ví dụ như 0.2.1 thành 0.2.2 thay lẫn trong file 'setup' và 'init'
 - Không được để lộ API PYPI
 ```
-CHÚC CÁC BẠN THÀNH CÔNG !!!
+# CHÚC CÁC BẠN THÀNH CÔNG !!!
