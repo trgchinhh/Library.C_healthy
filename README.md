@@ -1,10 +1,10 @@
-# C_healthy
-
-## Hưỡng dẫn tạo thư viện cơ bản: https://github.com/trgchinhh/LibraryChealthy/blob/main/INSTRUCT.md
+# Library C_healthy
 
 ## New Version: https://pypi.org/project/C-healthy/0.2.5/
 
 ## Link bài viết: https://www.facebook.com/share/p/161whS2WdN/
+
+## Hưỡng dẫn tạo thư viện cơ bản: https://github.com/trgchinhh/LibraryChealthy/blob/main/INSTRUCT.md
 
 ## Tính năng 
 C_healthy là thư viện Python để tính toán các chỉ số sức khỏe (BMI, BMR, TDEE, và nhiều chỉ số khác) 
